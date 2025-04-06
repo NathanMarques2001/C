@@ -3,12 +3,13 @@
 1. Faça um programa que peça ao usuário que digite dois números e imprima a soma.
 1. Faça um programa que peça ao usuário que digite um número e imprima se ele é par ou ímpar.
 ================================================================================================================================================================
-Faça um programa que peça ao usuário que digite um número e imprima se ele é positivo ou negativo.
-Faça um programa que peça ao usuário que digite um número e imprima se ele é primo ou não.
-Faça um programa que calcule a média de duas notas e imprima se o aluno está aprovado ou reprovado.
-Faça um programa que peça ao usuário que digite um número e imprima todos os números primos até aquele número.
-Faça um programa que peça ao usuário que digite um número e imprima todos os números pares até aquele número.
-Faça um programa que peça ao usuário que digite um número e imprima todos os números ímpares até aquele número.
+2. Faça um programa que peça ao usuário que digite um número e imprima se ele é positivo ou negativo.
+2. Faça um programa que peça ao usuário que digite um número e imprima se ele é primo ou não.
+2. Faça um programa que calcule a média de duas notas e imprima se o aluno está aprovado ou reprovado.
+2. Faça um programa que peça ao usuário que digite um número e imprima todos os números primos até aquele número.
+2. Faça um programa que peça ao usuário que digite um número e imprima todos os números pares até aquele número.
+2. Faça um programa que peça ao usuário que digite um número e imprima todos os números ímpares até aquele número.
+================================================================================================================================================================
 Faça um programa que peça ao usuário que digite uma string e imprima o tamanho da string.
 Faça um programa que peça ao usuário que digite uma string e imprima a string ao contrário.
 Faça um programa que peça ao usuário que digite uma string e imprima quantas vogais há na string.
